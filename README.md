@@ -1,6 +1,6 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.0 a partir do curso .
 
 ## Development server
 
