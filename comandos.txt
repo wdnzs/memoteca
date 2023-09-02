@@ -1,0 +1,8 @@
+Instalar as dependências do projeto => npm install 
+
+memoteca => ng serve
+
+backend => npm start
+
+http://localhost:4200
+http://localhost:3000.
